@@ -1,0 +1,7 @@
+2026-10-11 09:15:20 INFO User logged in successfully
+2026-10-11 09:16:10 WARNING Disk space is getting low
+2026-10-11 09:17:05 ERROR Database connection failed
+2026-10-11 09:17:30 ERROR Database connection failed
+2026-10-11 09:18:00 INFO Request completed
+2026-10-11 09:19:15 ERROR API request failed
+This is an invalid log entry
